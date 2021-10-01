@@ -1,0 +1,13 @@
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\bin\Debug\netcoreapp3.1\Lab 1 - 1156813.exe
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\bin\Debug\netcoreapp3.1\Lab 1 - 1156813.deps.json
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\bin\Debug\netcoreapp3.1\Lab 1 - 1156813.runtimeconfig.json
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\bin\Debug\netcoreapp3.1\Lab 1 - 1156813.runtimeconfig.dev.json
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\bin\Debug\netcoreapp3.1\Lab 1 - 1156813.dll
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\bin\Debug\netcoreapp3.1\Lab 1 - 1156813.pdb
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\obj\Debug\netcoreapp3.1\Lab 1 - 1156813.csprojAssemblyReference.cache
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\obj\Debug\netcoreapp3.1\Lab 1 - 1156813.AssemblyInfoInputs.cache
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\obj\Debug\netcoreapp3.1\Lab 1 - 1156813.AssemblyInfo.cs
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\obj\Debug\netcoreapp3.1\Lab 1 - 1156813.csproj.CoreCompileInputs.cache
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\obj\Debug\netcoreapp3.1\Lab 1 - 1156813.dll
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\obj\Debug\netcoreapp3.1\Lab 1 - 1156813.pdb
+F:\Rodrigo\Documents\Compiladores\Lab 1 - 1156813\obj\Debug\netcoreapp3.1\Lab 1 - 1156813.genruntimeconfig.cache
