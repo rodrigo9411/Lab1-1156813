@@ -3,25 +3,25 @@ Laboratorio 1 Compiladores, Rodrigo Ramirez 1156813
 
 # Gramática
 
-E -> E+T<br />
-     E-T<br />
-     T<br />
+E ->  E+T<br />
+     &ensp;&ensp;&ensp;&ensp;E-T<br />
+      &ensp;&ensp;&ensp;&ensp;T<br />
 T -> T*F<br />
-     T/F<br />
-     F<br />
+      &ensp;&ensp;&ensp;&ensp;T/F<br />
+      &ensp;&ensp;&ensp;&ensp;F<br />
 F -> (E)<br />
-     -F<br />
-     num
+      &ensp;&ensp;&ensp;&ensp;-F<br />
+      &ensp;&ensp;&ensp;&ensp;num
      
 # Gramática Factorizada
 E -> TE'<br />
 E'-> +TE'<br />
-     -TE'<br />
-     e<br />
+      &ensp;&ensp;&ensp;&ensp;-TE'<br />
+      &ensp;&ensp;&ensp;&ensp;e<br />
 T -> FT'<br />
 T'-> *FT'<br />
-     /FT'<br />
-     e<br />
+      &ensp;&ensp;&ensp;&ensp;/FT'<br />
+      &ensp;&ensp;&ensp;&ensp;e<br />
 F -> (E)<br />
-     -F<br />
-     num 
+      &ensp;&ensp;&ensp;&ensp;-F<br />
+      &ensp;&ensp;&ensp;&ensp;num 
