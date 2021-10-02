@@ -3,6 +3,8 @@ Laboratorio 1 Compiladores, Rodrigo Ramirez 1156813
 
 Expresiones aritéticas con enteros de un solo dígito
 
+El ejecutable se encuentra en bin\Debug\netcoreapp3.1
+
 # Gramática
 
 E ->  E+T<br />
