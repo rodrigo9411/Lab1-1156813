@@ -1,6 +1,8 @@
 # Lab1-1156813
 Laboratorio 1 Compiladores, Rodrigo Ramirez 1156813
 
+Expresiones aritéticas con enteros de un solo dígito
+
 # Gramática
 
 E ->  E+T<br />
